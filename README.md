@@ -1,4 +1,4 @@
-# UPI Pulse — UPI Market Share Analytics Dashboard
+# UPI Pulse - UPI Market Share Analytics Dashboard
 
 **Tool used:** Claude AI
 
